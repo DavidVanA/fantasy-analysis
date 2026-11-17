@@ -1,8 +1,5 @@
 from yahoo_oauth import OAuth2
-from dotenv import load_dotenv
 import yahoo_fantasy_api as yfa
-import json
-import os
 import logging
 
 logging.getLogger('yahoo_oauth').setLevel(logging.ERROR)
