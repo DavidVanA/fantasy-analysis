@@ -4,7 +4,7 @@ It has not yet been decided what type of analysis is going to be perfromed on th
 
 Uses the Yahoo Fantasy API. Authentication can be done by adding an `env` file that contains:
 
-```
+```dotenv
 YAHOO_FANTASY_APP_ID="..."
 YAHOO_FANTASY_CLIENT_ID="..."
 YAHOO_FANTASY_CLIENT_SECRET="..."
