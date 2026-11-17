@@ -1,0 +1,8 @@
+# Yahoo OAuth token files
+oauth2.json
+.yahoo-oauth.json
+
+# Environment variable files
+.env
+.env.local
+*.env
